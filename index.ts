@@ -77,6 +77,7 @@ export const init = () => {
   })
 }
 
+
 export const security_checks = () => {
   screen_clear();
   console.log("Security Checks")
@@ -110,3 +111,4 @@ export const security_checks = () => {
 }
 
 init()
+
