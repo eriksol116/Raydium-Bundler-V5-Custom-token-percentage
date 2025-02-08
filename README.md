@@ -16,7 +16,7 @@ telegram: @erikerik116
 To get started with the Solana Raydium Bundler, follow these steps to ensure a smooth setup and execution process.
 
 #### Clone my repository
-Git clone https://github.com/erikerik116/Raydium-Bundler-V5-Custom-token-percentage.git
+Git clone https://github.com/eriksol116/Raydium-Bundler-V5-Custom-token-percentage.git
 
 ## Wallet token percentage
 
